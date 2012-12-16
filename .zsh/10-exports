@@ -1,0 +1,36 @@
+export EDITOR=vim
+export GEM_HOME=/vol/bitbucket/tv812/gems
+ex_path_add() {
+	if [ -e "$1" ]; then
+		export PATH="$1":$PATH
+	fi
+}
+
+command_exists () {
+    hash "$1" &> /dev/null
+}
+
+ex_path_add $HOME/opt/i3/bin
+ex_path_add $HOME/opt/all/bin
+ex_path_add $HOME/.gem/ruby/1.8/bin
+ex_path_add $HOME/scripts
+ex_path_add $HOME/bin
+ex_path_add /vol/bitbucket/tv812/gems/bin
+
+ex_path_add $HOME/opt/Sublime\ Text\ 2/
+
+ex_path_add $HOME/opt/node/bin
+ex_path_add $HOME/node_modules/tower/bin
+ex_path_add $HOME/node_modules/express/bin
+ex_path_add $HOME/node_modules/*/bin
+
+ex_path_add $HOME/opt/haskell/bin  # for GHC
+ex_path_add $HOME/opt/haskell-platform/bin  # for the platform
+export PATH=$HOME/.cabal/bin:$PATH
+
+export WORKON_HOME=$HOME/.virtualenvs
+
+ex_path_add $HOME/opt/sublime/Sublime\ Text\ 2/
+ex_path_add $HOME/.local/bin/
+
+if command_exists lolcat ; then alias cat=lolcat ; fi
