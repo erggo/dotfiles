@@ -1,0 +1,849 @@
+{
+	"folder_history":
+	[
+		"/home/tomas/Dropbox/Coding/Haskell",
+		"/home/tomas/Coding/lensplus",
+		"/home/tomas/XBMC-rel-0.4.2",
+		"/home/tomas/Videos",
+		"/home/tomas/xmonad-0.10",
+		"/home/tomas/Coding",
+		"/home/tomas/.zsh",
+		"/usr/share/gnome-shell/js/ui",
+		"/home/tomas/django-registration-read-only/registration"
+	],
+	"last_window_id": 25,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"v",
+						"vote"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"n",
+						"num"
+					],
+					[
+						"mi",
+						"mint	IntegerField (mint)"
+					],
+					[
+						"mode",
+						"models"
+					],
+					[
+						"pho",
+						"Photos"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"mo",
+						"mbool	BooleanField (mbool)"
+					],
+					[
+						"li",
+						"link	Tag"
+					]
+				]
+			},
+			"build_system": "Packages/User/goffee.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"conve",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"conv",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"conver to sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"set s co",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"set s cof",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"set s ht d",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set s htm",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set s dja",
+						"Set Syntax: Python Django"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 146.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tomas/Coding/lensplus/templates/head.html",
+				"/home/tomas/Coding/lensplus/lensplus/urls.py",
+				"/home/tomas/Coding/lensplus/templates/review.html",
+				"/home/tomas/Coding/lensplus/fixtures/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/lensplus/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/web/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/static/css/font-awesome.css",
+				"/home/tomas/Coding/lensplus/templates/main.html",
+				"/home/tomas/Coding/lensplus/web/models.py",
+				"/home/tomas/Coding/lensplus/templates/search/search.html",
+				"/home/tomas/Coding/lensplus/templates/base.html",
+				"/home/tomas/.zsh/10-exports",
+				"/home/tomas/.zsh/sublime",
+				"/home/tomas/.zsh/20-aliases",
+				"/home/tomas/.zsh/01-sources",
+				"/home/tomas/Coding/lensplus/README.md",
+				"/home/tomas/Coding/lensplus/web/views.py",
+				"/home/tomas/Coding/lensplus/templates/lens.html",
+				"/home/tomas/Coding/lensplus/web_data.json",
+				"/home/tomas/Coding/lensplus/requirements.txt",
+				"/home/tomas/Coding/lensplus/web/search_indexes.py",
+				"/home/tomas/Coding/lensplus/templates/registration/activation_email.txt\nactivation_email.txt\nactivation_email.txt\nactivation_email.txt",
+				"/home/tomas/.config/sublime-text-2/Packages/CoffeeScript/CoffeeScript.sublime-build",
+				"/home/tomas/.config/sublime-text-2/Packages/User/goffee.sublime-build",
+				"/home/tomas/clutter.js",
+				"/home/tomas/clutter.coffee",
+				"/home/tomas/test.coffee",
+				"/home/tomas/Coding/lensplus/templates/search.html",
+				"/home/tomas/Coding/lensplus/templates/register.html",
+				"/home/tomas/Coding/lensplus/registration/views.py",
+				"/home/tomas/Coding/lensplus/registration/urls.py",
+				"/home/tomas/Coding/lensplus/lensplus/settings.py",
+				"/home/tomas/Coding/lensplus/templates/registration/activate.html",
+				"/home/tomas/Coding/lensplus/templates/registration/activation_complete.html",
+				"/home/tomas/Coding/lensplus/templates/registration/registration_complete.html",
+				"/home/tomas/Coding/lensplus/templates/registration/activation_email_subject.txt",
+				"/home/tomas/Coding/lensplus/templates/registration/registration_form.html",
+				"/home/tomas/Coding/lensplus/registration/__init__.py",
+				"/home/tomas/Coding/lensplus/templates/products.html",
+				"/home/tomas/Coding/lensplus/templates/main2.html",
+				"/home/tomas/Coding/lensplus/templates/body.html",
+				"/home/tomas/Coding/lensplus/templates/search_bar.html",
+				"/home/tomas/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/tomas/Coding/lensplus/manage.py",
+				"/home/tomas/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/tomas/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"FIXTURE_DIRS",
+					"e=",
+					"createLookingGlass",
+					"lg",
+					"start",
+					"const ",
+					"let ",
+					"bind",
+					"extends",
+					"lang",
+					",",
+					"dat",
+					" ",
+					"const ",
+					"let ",
+					"pass",
+					"passwor",
+					"static",
+					"temp"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"this.",
+					"var ",
+					"\",\"",
+					"\"\"",
+					"this.",
+					"var "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sett",
+						"lensplus/settings.py"
+					],
+					[
+						"he",
+						"templates/head.html"
+					],
+					[
+						"model",
+						"web/models.py"
+					],
+					[
+						"font",
+						"static/css/font-awesome.css"
+					],
+					[
+						"head",
+						"templates/head.html"
+					],
+					[
+						"models",
+						"web/models.py"
+					],
+					[
+						"sear",
+						"templates/search/search.html"
+					],
+					[
+						"urls",
+						"lensplus/urls.py"
+					],
+					[
+						"url",
+						"lensplus/urls.py"
+					],
+					[
+						"mode",
+						"web/models.py"
+					],
+					[
+						"le",
+						"templates/lens.html"
+					],
+					[
+						"mai",
+						"templates/main.html"
+					],
+					[
+						"len",
+						"templates/lens.html"
+					],
+					[
+						"base",
+						"templates/base.html"
+					],
+					[
+						"vie",
+						"web/views.py"
+					],
+					[
+						"vi",
+						"web/views.py"
+					],
+					[
+						"set",
+						"lensplus/settings.py"
+					],
+					[
+						"re",
+						"templates/register.html"
+					],
+					[
+						"ur",
+						"lensplus/urls.py"
+					],
+					[
+						"us",
+						"lensplus/urls.py"
+					],
+					[
+						"u",
+						"lensplus/urls.py"
+					],
+					[
+						"",
+						"templates/search_bar.html"
+					],
+					[
+						"h",
+						"templates/head.html"
+					],
+					[
+						"ma",
+						"manage.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"v",
+						"vote"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"n",
+						"num"
+					],
+					[
+						"mi",
+						"mint	IntegerField (mint)"
+					],
+					[
+						"mode",
+						"models"
+					],
+					[
+						"pho",
+						"Photos"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"mo",
+						"mbool	BooleanField (mbool)"
+					],
+					[
+						"li",
+						"link	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "  data SuffixTree = Leaf Int | Node [ ( String, SuffixTree ) ] \n                deriving (Eq,Ord,Show)\n\ntext1 :: String\ntext1 = \"banana\"\n\ntext2 :: String\ntext2 = \"mississippi\"\n\ntree1 :: SuffixTree\ntree1 = Node [(\"banana\",Leaf 0),\n              (\"a\",Node [(\"\",Leaf 5),\n                         (\"na\",Node [(\"\",Leaf 3),\n                                     (\"na\",Leaf 1)])]),\n              (\"na\",Node [(\"\",Leaf 4),\n                          (\"na\",Leaf 2)])]\n\ntree2 :: SuffixTree\ntree2 = Node [(\"mississippi\",Leaf 0),\n              (\"i\",Node [(\"\",Leaf 10),\n                         (\"ssi\",Node [(\"ssippi\",Leaf 1),\n                                      (\"ppi\",Leaf 4)]),\n                            (\"ppi\",Leaf 7)]),\n              (\"s\",Node [(\"si\",Node [(\"ssippi\",Leaf 2),\n                                     (\"ppi\",Leaf 5)]),\n              (\"i\",Node [(\"ssippi\",Leaf 3),\n                         (\"ppi\",Leaf 6)])]),\n              (\"p\",Node [(\"pi\",Leaf 8),\n                         (\"i\",Leaf 9)])]\n\n----------------------------------------------------------\n\n--isPrefix :: String -> String -> Bool\n\n--removePrefix :: String -> String -> String\n\n--suffixes :: [ a ] -> [ [ a ] ]\n\n--isSubstring :: String -> String -> Bool\n\n--findSubstrings :: String -> String -> [ Int ]\n\n--getIndices :: SuffixTree -> [ Int ]\n\n--partition :: Eq a => [ a ] -> [ a ] -> ( [ a ], [ a ], [ a ] )\n\n--findSubstringsInTree :: String -> SuffixTree -> [ Int ]\n\n--insert :: (String, Int) -> SuffixTree -> SuffixTree\n\n--This function is given\n--buildTree :: String -> SuffixTree \n--buildTree s\n-- = foldl ( flip ins ) ( Node [] ) ( zip ( suffixes s ) [0..length s-1] )\n\n--longestRepeatedSubstringInTree :: SuffixTree -> String\n\n\n",
+					"file": "/home/tomas/Dropbox/Coding/Haskell/JanTestOne.txt",
+					"file_size": 1695,
+					"file_write_time": 1356906674000000,
+					"settings":
+					{
+						"buffer_size": 1697,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/goffee.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"conve",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"conv",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"conver to sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"set s co",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"set s cof",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"set s ht d",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set s htm",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set s dja",
+						"Set Syntax: Python Django"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 146.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tomas/Coding/goffee/examples/window.coffee",
+				"/home/tomas/Coding/lensplus/templates/head.html",
+				"/home/tomas/Coding/lensplus/lensplus/urls.py",
+				"/home/tomas/Coding/lensplus/templates/review.html",
+				"/home/tomas/Coding/lensplus/fixtures/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/lensplus/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/web/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/initial_data.yaml",
+				"/home/tomas/Coding/lensplus/static/css/font-awesome.css",
+				"/home/tomas/Coding/lensplus/templates/main.html",
+				"/home/tomas/Coding/lensplus/web/models.py",
+				"/home/tomas/Coding/lensplus/templates/search/search.html",
+				"/home/tomas/Coding/lensplus/templates/base.html",
+				"/home/tomas/.zsh/10-exports",
+				"/home/tomas/.zsh/sublime",
+				"/home/tomas/.zsh/20-aliases",
+				"/home/tomas/.zsh/01-sources",
+				"/home/tomas/Coding/lensplus/README.md",
+				"/home/tomas/Coding/lensplus/web/views.py",
+				"/home/tomas/Coding/lensplus/templates/lens.html",
+				"/home/tomas/Coding/lensplus/web_data.json",
+				"/home/tomas/Coding/lensplus/requirements.txt",
+				"/home/tomas/Coding/lensplus/web/search_indexes.py",
+				"/home/tomas/Coding/lensplus/templates/registration/activation_email.txt\nactivation_email.txt\nactivation_email.txt\nactivation_email.txt",
+				"/home/tomas/.config/sublime-text-2/Packages/CoffeeScript/CoffeeScript.sublime-build",
+				"/home/tomas/.config/sublime-text-2/Packages/User/goffee.sublime-build",
+				"/home/tomas/clutter.js",
+				"/home/tomas/clutter.coffee",
+				"/home/tomas/test.coffee",
+				"/home/tomas/Coding/lensplus/templates/search.html",
+				"/home/tomas/Coding/lensplus/templates/register.html",
+				"/home/tomas/Coding/lensplus/registration/views.py",
+				"/home/tomas/Coding/lensplus/registration/urls.py",
+				"/home/tomas/Coding/lensplus/lensplus/settings.py",
+				"/home/tomas/Coding/lensplus/templates/registration/activate.html",
+				"/home/tomas/Coding/lensplus/templates/registration/activation_complete.html",
+				"/home/tomas/Coding/lensplus/templates/registration/registration_complete.html",
+				"/home/tomas/Coding/lensplus/templates/registration/activation_email_subject.txt",
+				"/home/tomas/Coding/lensplus/templates/registration/registration_form.html",
+				"/home/tomas/Coding/lensplus/registration/__init__.py",
+				"/home/tomas/Coding/lensplus/templates/products.html",
+				"/home/tomas/Coding/lensplus/templates/main2.html",
+				"/home/tomas/Coding/lensplus/templates/body.html",
+				"/home/tomas/Coding/lensplus/templates/search_bar.html",
+				"/home/tomas/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/tomas/Coding/lensplus/manage.py",
+				"/home/tomas/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/tomas/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"FIXTURE_DIRS",
+					"e=",
+					"createLookingGlass",
+					"lg",
+					"start",
+					"const ",
+					"let ",
+					"bind",
+					"extends",
+					"lang",
+					",",
+					"dat",
+					" ",
+					"const ",
+					"let ",
+					"pass",
+					"passwor",
+					"static",
+					"temp"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"this.",
+					"var ",
+					"\",\"",
+					"\"\"",
+					"this.",
+					"var "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/tomas/Dropbox/Coding/Haskell/JanTestOne.txt",
+							"settings":
+							{
+								"buffer_size": 1697,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2,
+										2
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sett",
+						"lensplus/settings.py"
+					],
+					[
+						"he",
+						"templates/head.html"
+					],
+					[
+						"model",
+						"web/models.py"
+					],
+					[
+						"font",
+						"static/css/font-awesome.css"
+					],
+					[
+						"head",
+						"templates/head.html"
+					],
+					[
+						"models",
+						"web/models.py"
+					],
+					[
+						"sear",
+						"templates/search/search.html"
+					],
+					[
+						"urls",
+						"lensplus/urls.py"
+					],
+					[
+						"url",
+						"lensplus/urls.py"
+					],
+					[
+						"mode",
+						"web/models.py"
+					],
+					[
+						"le",
+						"templates/lens.html"
+					],
+					[
+						"mai",
+						"templates/main.html"
+					],
+					[
+						"len",
+						"templates/lens.html"
+					],
+					[
+						"base",
+						"templates/base.html"
+					],
+					[
+						"vie",
+						"web/views.py"
+					],
+					[
+						"vi",
+						"web/views.py"
+					],
+					[
+						"set",
+						"lensplus/settings.py"
+					],
+					[
+						"re",
+						"templates/register.html"
+					],
+					[
+						"ur",
+						"lensplus/urls.py"
+					],
+					[
+						"us",
+						"lensplus/urls.py"
+					],
+					[
+						"u",
+						"lensplus/urls.py"
+					],
+					[
+						"",
+						"templates/search_bar.html"
+					],
+					[
+						"h",
+						"templates/head.html"
+					],
+					[
+						"ma",
+						"manage.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
