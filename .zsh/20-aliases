@@ -1,9 +1,9 @@
 alias c='clear'
+alias d='cd ..'
 alias acp='git add -A && git commit -m "update" && git push'
 alias lab='ssh tv812@shell2.doc.ic.ac.uk -t  "zsh"'
 
 alias dir='ls -lah --color=auto'
-alias d='dir'
 alias grep='grep --color=auto'
 alias grepi='grep -Iri'
 
