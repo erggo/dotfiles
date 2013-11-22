@@ -83,4 +83,5 @@ Bundle 'bling/vim-airline'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'scrooloose/nerdtree'
 Bundle 'jistr/vim-nerdtree-tabs'
+Bundle 'jnwhiteh/vim-golang'
 filetype plugin indent on     " required!

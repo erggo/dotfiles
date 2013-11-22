@@ -1,3 +1,6 @@
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+
 export EDITOR=vim
 export GEM_HOME=/vol/bitbucket/tv812/gems
 ex_path_add() {
@@ -29,6 +32,8 @@ ex_path_add $HOME/opt/haskell-platform/bin  # for the platform
 export PATH=$HOME/.cabal/bin:$PATH
 
 export WORKON_HOME=$HOME/.virtualenvs
+export CLASSPATH=".:/usr/local/lib/antlr-4.1-complete.jar:$CLASSPATH"
+
 
 ex_path_add $HOME/opt/sublime/Sublime\ Text\ 2/
 ex_path_add $HOME/.local/bin/
