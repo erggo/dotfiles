@@ -1,6 +1,10 @@
+export DOCKER_HOST=tcp://192.168.59.103:2376
+export DOCKER_CERT_PATH=/Users/tvi/.boot2docker/certs/boot2docker-vm
+export DOCKER_TLS_VERIFY=1
+
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
-
+export CLASH_PRIMDIR="/Users/tvi/opt/primitives"
 export EDITOR=vim
 export GEM_HOME=/vol/bitbucket/tv812/gems
 ex_path_add() {
@@ -13,13 +17,20 @@ command_exists () {
     hash "$1" &> /dev/null
 }
 
+ex_path_add $HOME/go_appengine
+
+ex_path_add $HOME/.rbenv/versions/2.1.3/bin
+
 ex_path_add $HOME/opt/i3/bin
 ex_path_add $HOME/opt/all/bin
 ex_path_add $HOME/.gem/ruby/1.8/bin
 ex_path_add $HOME/scripts
 ex_path_add $HOME/bin
+ex_path_add /usr/local/Cellar/emacs/24.3/bin
 ex_path_add /vol/bitbucket/tv812/gems/bin
+ex_path_add /usr/local/Cellar/gdb/7.8/bin
 
+# ex_path_add $HOME/opt/clash/bin
 ex_path_add $HOME/opt/Sublime\ Text\ 2/
 
 ex_path_add $HOME/opt/node/bin
